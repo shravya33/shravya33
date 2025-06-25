@@ -82,7 +82,7 @@
     <a href="https://linkedin.com/in/shravya33" target="_blank" rel="noopener noreferrer">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="30" />
     </a>
-    <a href="https://www.leetcode.com/cyberduck3" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.leetcode.com/cyberduck33" target="_blank" rel="noopener noreferrer">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40" height="30" />
     </a>
   </p>
